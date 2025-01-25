@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "127539696153",
+    "firebase_url": "https://feedback-b7252-default-rtdb.firebaseio.com",
+    "project_id": "feedback-b7252",
+    "storage_bucket": "feedback-b7252.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127539696153:android:7b1be2a3e18a18f28d5088",
+        "android_client_info": {
+          "package_name": "com.example.feedbackpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC37gQcsBC_vFDxjx0WHy6Wq7CwAjTwVng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
